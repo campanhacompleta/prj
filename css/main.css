@@ -1,0 +1,23 @@
+img {
+	max-width: 100%;
+}
+
+.site-section {
+	padding: 1.5em 0;
+}
+
+.site-section:nth-child(odd) {
+	background-color: #fbfbfb;
+}
+
+.site-intro {
+	background: url('https://api.fnkr.net/testimg/1600x720/ddd/eee/?text="Imagem"') no-repeat;
+}
+
+.site-footer {
+	background-color: #eee !important;
+}
+
+.hentry {
+	margin-bottom: 1em;
+}
