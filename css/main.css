@@ -1,3 +1,4 @@
+/* General */
 img {
 	max-width: 100%;
 }
@@ -10,6 +11,7 @@ input[type="text"], input[type="password"], input[type="date"], input[type="date
 	width: 100%;
 }
 
+/* Structure */
 .site-section {
 	padding: 1.5em 0;
 }
@@ -26,10 +28,12 @@ input[type="text"], input[type="password"], input[type="date"], input[type="date
 	background-color: #eee !important;
 }
 
+/* WordPress */
 .hentry {
 	margin-bottom: 1em;
 }
 
+.entry-image,
 .widget {
 	margin-bottom: 1.5em;
 }
