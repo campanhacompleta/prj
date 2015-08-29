@@ -4,7 +4,8 @@ Um teste de prototipação usando o Foundation
 **Páginas**   
 
 * [Capa](https://campanhacompleta.github.io/prj)
-* [Arquivo](https://campanhacompleta.github.io/prj/archive.html)
+* [Exemplo de página](https://campanhacompleta.github.io/prj/page.html)
+* [Arquivo de posts](https://campanhacompleta.github.io/prj/archive.html)
 
 **Referências no ThemeForest**   
 
