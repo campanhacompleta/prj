@@ -9,6 +9,7 @@ Um tema para partidos políticos que não estejam dispostos a acomodação e ao 
 
 * [Capa](https://campanhacompleta.github.io/prj)
 * [Exemplo de página](https://campanhacompleta.github.io/prj/page.html)
+* [Página do parlamentar](https://campanhacompleta.github.io/prj/parlamentar.html)
 * [Arquivo de posts](https://campanhacompleta.github.io/prj/archive.html)
 
 **Referências no ThemeForest**   
