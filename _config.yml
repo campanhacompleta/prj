@@ -1,0 +1,11 @@
+# Site settings
+title:
+email:
+description: ""
+baseurl: "/prj"
+url: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+#exclude: [s3_website.yml, Gruntfile.coffee, package.json, node_modules, scss, README.markdown, coffee]
