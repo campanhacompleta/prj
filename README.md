@@ -15,6 +15,15 @@ Um tema para partidos políticos que não estejam dispostos a acomodação e ao 
 **Referências no ThemeForest**   
 
 * http://themeforest.net/item/candidate-political-nonprofit-wordpress-theme/full_screen_preview/12163560
-* http://proparty.axiomthemes.com/?body_style=fullwide
-* http://velikorodnov.com/dev/candidate/
+* http://proparty.axiomthemes.com/candidate/
 * http://chimpgroup.com/wp-demo/westand/westand-politics/
+?body_style=fullwide
+* http://velikorodnov.com/dev/
+
+**Funcionalidades**
+
+**Delibera - Ferramenta de Participação**
+ - Ferramenta que possibilidade que Leis em discussão ou já aprovadas, programas de governo ou outros temas relevantes sejam colocadas em discussão, podendo seguir um modelo de consulta pública ou de construção colaborativa, permitindo que cidadãos possam colocar sua opinião ou sugerir propostas concretas, que poderão ser sistematizadas e colocadas em votação, caso seja necessário.
+ - 
+ **Transparência Parlamentar** 
+ - Página que permita apresentar de forma detalhada a atuação parlamentar, com dados pessoais, de atuação e prestação de contas. 
