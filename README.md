@@ -8,6 +8,7 @@ Um tema para partidos políticos que não estejam dispostos a acomodação e ao 
 
 * [Capa](https://campanhacompleta.github.io/prj)
 * [Exemplo de página](https://campanhacompleta.github.io/prj/page)
+* [Lista dos parlamentares](https://campanhacompleta.github.io/prj/parlamentares)
 * [Página do parlamentar](https://campanhacompleta.github.io/prj/parlamentar)
 * [Arquivo de posts](https://campanhacompleta.github.io/prj/archive)
 
