@@ -1,6 +1,8 @@
 # PRJ, para partidos políticos
 
-Um tema para partidos políticos que não estejam dispostos a acomodação e ao modelo tradicional de direções partidária autoritárias e surdas a opinião pública, mas sim a abrir o debate com a sociedade de forma pública, transparente e aberta.
+Um tema para partidos políticos transparentes, democráticos e participativos. 
+
+A proposta é disponibilizar um modelo para aqueles que queiram sair do modelo tradicional de direções partidária autoritárias e surdas a opinião pública para um modelo em que a transparência de seus atos e de seus dirigentes e parlamentares e a participação da sociedade civil por meio de avaliação de projetos de lei, posições políticas e construção colaborativa de programas de governo estejam no centro da sua política.
 
 *Um teste de prototipação usando o Foundation e Jekyll*
 
@@ -26,5 +28,31 @@ Um tema para partidos políticos que não estejam dispostos a acomodação e ao 
  - Ferramenta que possibilidade que Leis em discussão ou já aprovadas, programas de governo ou outros temas relevantes sejam colocadas em discussão, podendo seguir um modelo de consulta pública ou de construção colaborativa, permitindo que cidadãos possam colocar sua opinião ou sugerir propostas concretas, que poderão ser sistematizadas e colocadas em votação, caso seja necessário.
   
  
- **Transparência Parlamentar** 
- - Página que permita apresentar de forma detalhada a atuação parlamentar, com dados pessoais, de atuação e prestação de contas. 
+**Transparência Parlamentar** 
+ - Página que permita apresentar de forma detalhada a atuação parlamentar, com dados pessoais, de atuação e prestação de contas. Esta funcionalidade poderá ser transformada em um plugin que possa ser replicado em outros temas de WordPress, ver Issue 7
+ - Esta área terá como primeira especificação:
+
+Dados gerais
+
+    -Nome
+    -Nome completo do parlamentar
+    -Data de nascimento
+    -Naturalidade
+    -Estado civil
+    -Ocupação
+    -Escolaridade
+    -Biografia
+    -Links externos (Wikipedia, Facebook, Twitter etc)
+
+Dados para contato
+
+    -Email
+    -Endereço
+    -Telefone
+
+Dados de transparência
+
+    -Link para prestação de contas ao TRE
+    -Link para prestação de contas do mandato
+    -Equipe do mandato
+
