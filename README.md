@@ -13,6 +13,7 @@ A proposta é disponibilizar um modelo para aqueles que queiram sair do modelo t
 * [Lista dos parlamentares](https://campanhacompleta.github.io/prj/parlamentares)
 * [Página do parlamentar](https://campanhacompleta.github.io/prj/parlamentar)
 * [Arquivo de posts](https://campanhacompleta.github.io/prj/archive)
+* [Arquivo de eventos](https://campanhacompleta.github.io/prj/agenda)
 
 **Referências no ThemeForest**   
 
