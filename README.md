@@ -17,10 +17,8 @@ A proposta é disponibilizar um modelo para aqueles que queiram sair do modelo t
 **Referências no ThemeForest**   
 
 * http://themeforest.net/item/candidate-political-nonprofit-wordpress-theme/full_screen_preview/12163560
-* http://proparty.axiomthemes.com/candidate/
+* http://proparty.axiomthemes.com/
 * http://chimpgroup.com/wp-demo/westand/westand-politics/
-?body_style=fullwide
-* http://velikorodnov.com/dev/
 
 **Funcionalidades**
 
