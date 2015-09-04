@@ -38,10 +38,14 @@ dd + dt {
 
 /* WordPress */
 .hentry {
-	margin-bottom: 1em;
+	margin-bottom: 1.5em;
 }
 
 .entry-image,
 .widget {
 	margin-bottom: 1.5em;
+}
+
+.entry-event {
+	margin-bottom: 1em;
 }
