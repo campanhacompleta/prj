@@ -29,8 +29,8 @@ A proposta é disponibilizar um modelo para aqueles que queiram sair do modelo t
   
  
 **Transparência Parlamentar** 
- - Página que permita apresentar de forma detalhada a atuação parlamentar, com dados pessoais, de atuação e prestação de contas. Esta funcionalidade poderá ser transformada em um plugin que possa ser replicado em outros temas de WordPress, ver Issue 7
- - Esta área terá como primeira especificação:
+ - Em paralelo ao tema será desenvolvido o "Plugin Parlamentar", que apresentará em uma página, de forma detalhada, a atuação parlamentar, com dados pessoais, de atuação e prestação de contas.
+ - Este plugin terá como primeira especificação:
 
 Dados gerais
 
